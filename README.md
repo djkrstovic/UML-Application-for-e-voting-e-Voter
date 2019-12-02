@@ -1,0 +1,2 @@
+# UML-Application-for-e-voting-e-Voter
+This was project on course "Specifikacija i modelovanje softvera" (eng. Software Specification and modelling). "Application for e-voting: eVoter" is conceptual solution for republican elections. Contain diagrams for collecting requests and diagrams for modeling system. Also contain use cases, design patterns, state diagram, component diagram and deployment diagram.
